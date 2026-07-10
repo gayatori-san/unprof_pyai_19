@@ -1,5 +1,6 @@
 ## Retrieval-Augmented Generation (RAG) Architecture 🤖🧠
 
+## Installation procedure
 ```bash
 git clone https://github.com/gayatori-san/unprof_pyai_19
 ```
