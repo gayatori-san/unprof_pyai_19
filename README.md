@@ -2,7 +2,7 @@
 
 ## Installation procedure
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_19
+git clone https://github.com/gayatori-san/unprof_pyai_19.git
 ```
 ```bash
 cd unprof
